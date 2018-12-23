@@ -2,17 +2,3 @@
 极光 gobxsznu@yeah.net     Jj134679
 
 我用这个 bossnioka@126.com       Jj134679
-
-keystore
-
-管家婆：
-   G:/gjp.jks
-   
-   Alias  gjpkey
-   huawuque183
-   hua chunuh
-   com.hch.gjp
-   gjp
-   shanghai
-   shanghai
-   cn

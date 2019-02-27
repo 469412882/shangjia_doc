@@ -1,6 +1,6 @@
 应用名称：开元棋牌资讯
 应用包名：com.eqctwokyqp.wayyb
-极光key值：a1815ab8c7306b4de0ae47e8
+极光key值：a8850457fa075d72a639097f
 签名文件：hch.jks
 极光：ddrrmnayaikce@sohu.com	  Qq134679.
 

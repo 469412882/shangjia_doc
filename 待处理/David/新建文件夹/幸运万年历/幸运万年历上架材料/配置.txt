@@ -1,0 +1,5 @@
+应用名称：幸运万年历
+应用包名：com.lucywnl.waxm
+极光key值：c21228e1f044026237308e33
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

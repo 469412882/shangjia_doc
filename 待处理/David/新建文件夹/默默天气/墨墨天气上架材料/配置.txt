@@ -1,0 +1,5 @@
+应用名称：墨墨天气
+应用包名：com.momotianqi.waxm
+极光key值：145657fdc6c2c6693f3a1989
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

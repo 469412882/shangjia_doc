@@ -1,0 +1,5 @@
+应用名称：如意神算
+应用包名：com.ryshensuan.waxm
+极光key值：2454cbbefc1b3abbf1e0e81a
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

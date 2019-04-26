@@ -1,0 +1,5 @@
+应用名称：六合工具
+应用包名：com.lhgongju.waxm
+极光key值：63d7e367b1b330399a9cc37d
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

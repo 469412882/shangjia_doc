@@ -1,0 +1,5 @@
+应用名称：曾道人助手
+应用包名：com.zdrzhushou.waxm
+极光key值：134e515d5e90b79b06c320e3
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

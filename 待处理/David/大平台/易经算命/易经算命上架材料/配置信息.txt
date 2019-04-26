@@ -1,0 +1,5 @@
+应用名称：易经算命
+应用包名：com.yijing.sm.waxm
+极光key值：7cb60cc6ab5526b26b9fffba
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

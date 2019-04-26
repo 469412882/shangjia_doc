@@ -1,0 +1,5 @@
+应用名称：六合社区
+应用包名：com.lhshequ.waxm
+极光key值：e04d32b41a6c247f0f943455
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

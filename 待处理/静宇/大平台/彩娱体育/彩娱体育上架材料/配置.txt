@@ -1,0 +1,6 @@
+应用名称：彩娱体育
+应用包名：com.caiyuty.waxm
+极光key值：d2b342c58425a37ac470acd4
+签名文件：hch.jks
+极光：ddangsghetsss@sohu.com    Qq134679.
+

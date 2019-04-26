@@ -1,0 +1,5 @@
+应用名称：黄大仙神算
+应用包名：com.shens.hdx.waxm
+极光key值：e181e955d2661ad4f3e05a52
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

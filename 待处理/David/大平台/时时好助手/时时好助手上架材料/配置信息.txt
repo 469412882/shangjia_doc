@@ -1,0 +1,5 @@
+应用名称：时时好助手
+应用包名：com.sshzs.waxm
+极光key值：602c553995b76c52833cc862
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

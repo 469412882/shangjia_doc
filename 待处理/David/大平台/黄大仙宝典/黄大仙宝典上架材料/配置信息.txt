@@ -1,0 +1,5 @@
+应用名称：黄大仙宝典
+应用包名：com.hdax.bd.waxm
+极光key值：7bf41d82d8e67f5ecf127bba
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

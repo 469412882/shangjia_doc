@@ -1,0 +1,5 @@
+应用名称：188彩票
+应用包名：com.yybacaip.wabd
+极光key值：432a4d33306fce3cb87871b7
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

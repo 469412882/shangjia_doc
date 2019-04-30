@@ -1,0 +1,5 @@
+应用名称：重庆时时彩宝典
+应用包名：com.cqsscbd.wabd
+极光key值：1338b3fe83d80fc49423d126
+签名文件：hch.jks
+极光：hoonfddivt@sohu.com  Qq134679.

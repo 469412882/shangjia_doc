@@ -1,0 +1,8 @@
+应用名称：牛玩图库
+应用包名：com.niuwan.tuku.mm
+极光key值：c90b2431e99f49df1fbe15b4
+签名文件：hch.jks
+极光：ddangsghetsss@sohu.com    Qq134679.
+
+
+
